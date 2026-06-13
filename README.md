@@ -133,6 +133,9 @@ log.Printf("imported %d, skipped %d", res.Imported, res.Skipped)
 The advanced domain endpoints (ns-provider, BIMI, domain-connect) are not
 wrapped in this version.
 
-## License
+## Contributing
+
+Contributions are welcome. Open an issue to discuss larger changes, then send a
+pull request. Run the test suite and formatter before submitting.## License
 
 MIT
